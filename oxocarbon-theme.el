@@ -378,9 +378,7 @@
   (lsp-ui-sideline-symbol							(:foreground muted))
 
   ;; dashboard
-  (dashboard-items-face								(:weight 'light :height 150))
-  (dashboard-banner-logo-title						(:weight 'thin :height 320))
-  (dashboard-heading								(:foreground subtle :weight 'thin :height 170))
+  (dashboard-heading								(:foreground subtle))
   (dashboard-no-items-face							(:foreground muted))
 
   ;; all-the-icons
